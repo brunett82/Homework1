@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-Optimize code base of Horiseon's website for search engines, and update the code base to follow accessibility standards.
+Optimize code base of Horiseon's website and update the code base to follow accessibility standards.
 
 ## Project Scope
 
