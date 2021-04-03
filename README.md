@@ -14,6 +14,12 @@ Optimize code base of Horiseon's website and update the code base to follow acce
 6. Heading attributes must fall in sequential order.
 7. Title element must contain a concise and descriptive title.
 
+## Website Screen-Shot
+![Horiseon](./assets/images/horiseon-screenshot.png)
+
+## Deployed Application
+https://brunett82.github.io/Homework1/
+
 ## Project Owner
 
 Rob Brunett
